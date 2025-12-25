@@ -58,15 +58,15 @@ HUST Transmission System Dataset
 https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset
 
 ---  
-@article{ZHAO2025130962,
-  title   = {Environment-Aware graph relational reasoning for interpretable and generalizable mechanical transmission system distributed fault diagnosis},
-  journal = {Expert Systems with Applications},
-  pages   = {130962},
-  year    = {2025},
-  issn    = {0957-4174},
-  doi     = {10.1016/j.eswa.2025.130962},
-  url     = {https://www.sciencedirect.com/science/article/pii/S0957417425045774},
-  author  = {Chao Zhao and Weiming Shen and Enrico Zio and Hui Ma},
-  keywords= {Mechanical transmission system, Domain generalization, Graph neural network, Distributed fault diagnosis, Multiple sensors}
-}
+@article{ZHAO2025130962,  
+  title   = {Environment-Aware graph relational reasoning for interpretable and generalizable mechanical transmission system distributed fault diagnosis},  
+  journal = {Expert Systems with Applications},  
+  pages   = {130962},  
+  year    = {2025},  
+  issn    = {0957-4174},  
+  doi     = {10.1016/j.eswa.2025.130962},  
+  url     = {https://www.sciencedirect.com/science/article/pii/S0957417425045774},  
+  author  = {Chao Zhao and Weiming Shen and Enrico Zio and Hui Ma},  
+  keywords= {Mechanical transmission system, Domain generalization, Graph neural network, Distributed fault diagnosis, Multiple sensors}  
+}  
 

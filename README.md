@@ -31,7 +31,6 @@ Extensive experiments on a self-built transmission test rig, a high-speed train,
 ![EAGRR Framework](https://github.com/CHAOZHAO-1/EAGRR/blob/main/IMG1/F1.png)
 
 ---
-
 ## 📁 Project Structure
 
 ```text
@@ -48,14 +47,14 @@ EAGRR/
 │
 └── IMG1/
     └── Framework illustrations
-
 ---
+
 ## 📊 Dataset
+HUST Transmission System Dataset
 
-### **HUST Transmission System Dataset**
-
-🔗 **Dataset Repository:**  
+🔗 Dataset Repository:
 https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset
+
 ---
 @article{ZHAO2025130962,
   title   = {Environment-Aware graph relational reasoning for interpretable and generalizable mechanical transmission system distributed fault diagnosis},
@@ -68,3 +67,4 @@ https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset
   author  = {Chao Zhao and Weiming Shen and Enrico Zio and Hui Ma},
   keywords= {Mechanical transmission system, Domain generalization, Graph neural network, Distributed fault diagnosis, Multiple sensors}
 }
+

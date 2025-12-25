@@ -49,13 +49,14 @@ EAGRR/
 └── IMG1/
     └── Framework illustrations
 
+---
 ## 📊 Dataset
 
 ### **HUST Transmission System Dataset**
 
 🔗 **Dataset Repository:**  
 https://github.com/CHAOZHAO-1/HUSTTransmissionsystem-dataset
-
+---
 @article{ZHAO2025130962,
   title   = {Environment-Aware graph relational reasoning for interpretable and generalizable mechanical transmission system distributed fault diagnosis},
   journal = {Expert Systems with Applications},

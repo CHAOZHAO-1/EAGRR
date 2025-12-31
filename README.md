@@ -40,7 +40,7 @@ EAGRR/
 │   └── Main implementation of the proposed EAGRR framework
 │
 ├── resnet18_1d.py
-│   └── 1D ResNet backbone network architecture
+│   └── 1D CNN backbone network architecture
 │
 ├── data_loader_1d.py
 │   └── Data loading and preprocessing for 1D vibration signals
